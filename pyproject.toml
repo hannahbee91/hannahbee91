@@ -1,0 +1,17 @@
+[project]
+name = "hannahbee91-stats"
+version = "0.1.0"
+description = "GitHub stats generator"
+authors = [
+    {name = "Hannah",email = "hannah@hannahis.gay"}
+]
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "requests (>=2.34.0,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

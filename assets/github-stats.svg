@@ -1,0 +1,83 @@
+<svg width="480" height="280" viewBox="0 0 480 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFC300; }
+        .stat { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #E6E6FA; }
+        .bold { font-weight: 700; }
+        .icon { fill: #FFC300; }
+    </style>
+    
+    <rect width="478" height="278" x="1" y="1" rx="8" fill="#1e1e2e" stroke="#E6E6FA" stroke-width="1.5"/>
+    
+    <text x="25" y="35" class="title">✨ GitHub Stats for @hannahbee91</text>
+    
+    <!-- Stats Column 1 -->
+    <g transform="translate(25, 65)">
+        <svg x="0" y="0" width="16" height="16" viewBox="0 0 16 16" class="icon"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path></svg>
+        <text x="25" y="12" class="stat">Total Stars: <tspan class="bold">37</tspan></text>
+    </g>
+    
+    <g transform="translate(25, 95)">
+        <svg x="0" y="0" width="16" height="16" viewBox="0 0 16 16" class="icon"><path d="M10.5 7.75a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Zm1.43.75a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 1 1 0-1.5h3.32a4.001 4.001 0 0 1 7.86 0h3.32a.75.75 0 1 1 0 1.5h-3.32Z"></path></svg>
+        <text x="25" y="12" class="stat">Total Commits: <tspan class="bold">211</tspan></text>
+    </g>
+    
+    <!-- Stats Column 2 -->
+    <g transform="translate(225, 65)">
+        <svg x="0" y="0" width="16" height="16" viewBox="0 0 16 16" class="icon"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1v7.5h-8a2.5 2.5 0 0 1-2.5-2.5V2.5a1 1 0 0 1 1-1h8.5Zm-5 6a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z"></path></svg>
+        <text x="25" y="12" class="stat">Popular Repo: <tspan class="bold">nuxbt</tspan></text>
+    </g>
+    
+    <g transform="translate(225, 95)">
+        <svg x="0" y="0" width="16" height="16" viewBox="0 0 16 16" class="icon"><path d="M8 1a7 7 0 1 1 0 14A7 7 0 0 1 8 1Zm0 1.5a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11ZM8 4a.75.75 0 0 1 .75.75v3.5l2.25 1.25a.75.75 0 1 1-.75 1.3l-2.5-1.39A.75.75 0 0 1 7.25 8V4.75A.75.75 0 0 1 8 4Z"></path></svg>
+        <text x="25" y="12" class="stat">Contributions: <tspan class="bold">433</tspan></text>
+    </g>
+
+    <!-- Divider -->
+    <line x1="25" y1="130" x2="455" y2="130" stroke="#E6E6FA" stroke-width="0.5" stroke-opacity="0.5"/>
+    
+    <!-- Languages -->
+    <text x="25" y="155" class="stat bold">Top Languages</text>
+    
+    <g transform="translate(25, 170)">
+        <mask id="bar-mask">
+            <rect x="0" y="0" width="400" height="10" rx="5" fill="white" />
+        </mask>
+        <g mask="url(#bar-mask)">
+            <rect x="0" y="0" width="192.4" height="10" fill="#3572A5" />
+<rect x="192.4" y="0" width="126.4" height="10" fill="#3178c6" />
+<rect x="318.8" y="0" width="27.200000000000003" height="10" fill="#f34b7d" />
+<rect x="346.0" y="0" width="21.6" height="10" fill="#f1e05a" />
+<rect x="367.6" y="0" width="16.0" height="10" fill="#663399" />
+
+        </g>
+    </g>
+    
+    <g transform="translate(25, 195)">
+        
+        <g transform="translate(0, 0)">
+            <circle cx="5" cy="5" r="5" fill="#3572A5" />
+            <text x="15" y="9" font-family="Arial" font-size="12" fill="#E6E6FA">Python 48.1%</text>
+        </g>
+        
+        <g transform="translate(180, 0)">
+            <circle cx="5" cy="5" r="5" fill="#3178c6" />
+            <text x="15" y="9" font-family="Arial" font-size="12" fill="#E6E6FA">TypeScript 31.6%</text>
+        </g>
+        
+        <g transform="translate(0, 25)">
+            <circle cx="5" cy="5" r="5" fill="#f34b7d" />
+            <text x="15" y="9" font-family="Arial" font-size="12" fill="#E6E6FA">C++ 6.8%</text>
+        </g>
+        
+        <g transform="translate(180, 25)">
+            <circle cx="5" cy="5" r="5" fill="#f1e05a" />
+            <text x="15" y="9" font-family="Arial" font-size="12" fill="#E6E6FA">JavaScript 5.4%</text>
+        </g>
+        
+        <g transform="translate(0, 50)">
+            <circle cx="5" cy="5" r="5" fill="#663399" />
+            <text x="15" y="9" font-family="Arial" font-size="12" fill="#E6E6FA">CSS 4.0%</text>
+        </g>
+        
+    </g>
+</svg>
