@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/hannahbee91.png" width="150" style="border-radius:50%" alt="Hannah Brown" />
   <h1>Hi there 👋, I'm Hannah Brown</h1>
   <p><em>Developer & DevOps Engineer based in Southern California (she/her)</em></p>
   
