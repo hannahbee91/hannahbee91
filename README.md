@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Hannah and I like to make things. I'm a developer and devops engineer based in northern Utah.
+I am Hannah and I like to make things. I'm a developer and devops engineer based in southern California.
 
 ## Technical Skills
 
